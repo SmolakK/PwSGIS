@@ -1,0 +1,4 @@
+Ala,ma,kota,
+kot,ma,Ala
+Bo¿ena,ma,psa
+psa,ma,Bo¿ena
