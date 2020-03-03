@@ -3,6 +3,10 @@ Programowanie w systemach GIS
 
 Linki do ćwiczeń: 
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/%C4%86wiczenia/Cwiczenia_1_Wprowadzenie.zip">Ćwiczenia1</a>
+<a href="https://github.com/SmolakK/PwSGIS/raw/master/%C4%86wiczenia/Cwiczenia_2_Typowe_dla_Pythona_typy_indeksowanie_kontrola_przep%C5%82ywu.zip">Ćwiczenia2</a>
+
+Linki do list:
+<a href="https://github.com/SmolakK/PwSGIS/raw/master/Listy/Lista_1.zip">Lista1</a>
 
 
 _________________________
