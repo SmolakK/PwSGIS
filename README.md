@@ -13,6 +13,11 @@ _________________________
 Erasmus+ course 
 GIS Programming
 
+Important info: Despite the odds, the course continues. All the necessary information will be put into the exercises as well as here. Any questions? Mail me at: kamil.smolak@upwr.edu.pl
+
+Current info:
+Complete list 1 using Ex 1 and Ex 2 until 30.03.2020
+
 Exercises links:
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Exercises/Exercises_1_Introduction.zip">Ex1</a>
 
