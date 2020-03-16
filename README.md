@@ -1,13 +1,31 @@
 # PwSGIS
 Programowanie w systemach GIS
 
+Informacje: wszystkie informacje będą umieszczane w każdy poniedziałek na tej stronie. Kurs na ten moment kontynuujemy.
+
+Aktualizacja:
+Dostepne są ćwiczenia 3 i ćwiczenia 4 oraz lista 2. To materiał z dwóch tygodni ćwiczeń, a zatem Lista 2 wysłana musi być od 06.04.2020.
+
+W razie pytań proszę o kontakt: kamil.smolak@upwr.edu.pl
+
 Linki do ćwiczeń: 
+
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/%C4%86wiczenia/Cwiczenia_1_Wprowadzenie.zip">Ćwiczenia1</a>
+
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/%C4%86wiczenia/Cwiczenia_2_Typowe_dla_Pythona_typy_indeksowanie_kontrola_przep%C5%82ywu.zip">Ćwiczenia2</a>
 
+<a href="
+https://github.com/SmolakK/PwSGIS/raw/master/%C4%86wiczenia/Cwiczenia_3_Wlasne_funkcje_dokumentacje.zip">Ćwiczenia3</a>
+
+<a href="
+https://github.com/SmolakK/PwSGIS/raw/master/%C4%86wiczenia/Cwiczenia_4_Formatowanie_tekstu_wejscie_wyjscie_plikow.zip">Ćwiczenia4</a>
+
 Linki do list:
+
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/Listy/Lista_1.zip">Lista1</a>
 
+<a href="https://github.com/SmolakK/PwSGIS/raw/master/Listy/Lista_2.zip
+">Lista2</a>
 
 _________________________
 Erasmus+ course 
