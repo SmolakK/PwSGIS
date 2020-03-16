@@ -21,5 +21,7 @@ Complete list 1 using Ex 1 and Ex 2 until 30.03.2020
 Exercises links:
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Exercises/Exercises_1_Introduction.zip">Ex1</a>
 
+<a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Exercises/Exercises_2_Python_data_types_indexing_and_flow_control.zip">Ex2</a>
+
 Lists links:
 <a href="https://github.com/SmolakK/PwSGIS/blob/master/Programming%20in%20GIS%20(Erasmus%20course)/Lists/List_1%20-%20a%20Python%20warm-up.zip">List1</a>
