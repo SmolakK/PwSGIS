@@ -14,11 +14,9 @@ Linki do ćwiczeń:
 
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/%C4%86wiczenia/Cwiczenia_2_Typowe_dla_Pythona_typy_indeksowanie_kontrola_przep%C5%82ywu.zip">Ćwiczenia2</a>
 
-<a href="
-https://github.com/SmolakK/PwSGIS/raw/master/%C4%86wiczenia/Cwiczenia_3_Wlasne_funkcje_dokumentacje.zip">Ćwiczenia3</a>
+<a href="https://github.com/SmolakK/PwSGIS/raw/master/%C4%86wiczenia/Cwiczenia_3_Wlasne_funkcje_dokumentacje.zip">Ćwiczenia3</a>
 
-<a href="
-https://github.com/SmolakK/PwSGIS/raw/master/%C4%86wiczenia/Cwiczenia_4_Formatowanie_tekstu_wejscie_wyjscie_plikow.zip">Ćwiczenia4</a>
+<a href="https://github.com/SmolakK/PwSGIS/raw/master/%C4%86wiczenia/Cwiczenia_4_Formatowanie_tekstu_wejscie_wyjscie_plikow.zip">Ćwiczenia4</a>
 
 Linki do list:
 
