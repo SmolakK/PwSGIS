@@ -40,6 +40,10 @@ Exercises links:
 
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Exercises/Exercises_2_Python_data_types_indexing_and_flow_control.zip">Ex2</a>
 
+<a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Exercises/EX_3_User_defined_functions_documentation.rar">Ex3</a>
+
 
 Lists links:
 <a href="https://github.com/SmolakK/PwSGIS/blob/master/Programming%20in%20GIS%20(Erasmus%20course)/Lists/List_1%20-%20a%20Python%20warm-up.zip">List1</a>
+
+<a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Lists/List%202%20-%20Python.rar">List2</a>
