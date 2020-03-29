@@ -37,7 +37,9 @@ GIS Programming
 Important info: Despite the odds, the course continues. All the necessary information will be put into the exercises as well as here. Any questions? Mail me at: kamil.smolak@upwr.edu.pl
 
 Current info:
+
 Complete list 1 using Ex 1 and Ex 2 until 30.03.2020
+
 Complete list 2 using Ex 3 and 4 until 13.04.2020
 
 Exercises links:
@@ -51,6 +53,7 @@ Exercises links:
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Exercises/Ex_4_text_formatting_file_IO.zip">Ex4</a>
 
 Lists links:
+
 <a href="https://github.com/SmolakK/PwSGIS/blob/master/Programming%20in%20GIS%20(Erasmus%20course)/Lists/List_1%20-%20a%20Python%20warm-up.zip">List1</a>
 
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Lists/List%202%20-%20Python.rar">List2</a>
