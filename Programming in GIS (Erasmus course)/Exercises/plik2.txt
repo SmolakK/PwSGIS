@@ -1,0 +1,15 @@
+Cow
+Car
+Cow
+Move
+Shop
+Cow
+Move
+Shop
+Cow
+Car
+Pasta
+Shop
+Cow
+Move
+Shop
