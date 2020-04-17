@@ -38,9 +38,9 @@ Important info: Despite the odds, the course continues. All the necessary inform
 
 Current info:
 
-Complete list 1 using Ex 1 and Ex 2 until 30.03.2020
-
 Complete list 2 using Ex 3 and 4 until 13.04.2020
+
+Deadline for list 3 is postponed to 04.05.2020
 
 Exercises links:
 
@@ -51,6 +51,8 @@ Exercises links:
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Exercises/EX_3_User_defined_functions_documentation.rar">Ex3</a>
 
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Exercises/Ex_4_text_formatting_file_IO.zip">Ex4</a>
+
+<a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Exercises/EX_5_classes_part1.zip">Ex5</a>
 
 Lists links:
 
