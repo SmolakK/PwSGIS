@@ -54,8 +54,12 @@ Exercises links:
 
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Exercises/EX_5_classes_part1.zip">Ex5</a>
 
+<a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Exercises/EX_5_Classes_part_2.zip">Ex5 (Part2)</a>
+
 Lists links:
 
 <a href="https://github.com/SmolakK/PwSGIS/blob/master/Programming%20in%20GIS%20(Erasmus%20course)/Lists/List_1%20-%20a%20Python%20warm-up.zip">List1</a>
 
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Lists/List%202%20-%20Python.rar">List2</a>
+
+<a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Lists/List_3.zip">List3</a>
