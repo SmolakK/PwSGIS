@@ -1,0 +1,10 @@
+[general]
+name=NaszPlugin
+description=opis
+about=opis dlugi
+version=1.0
+qgisMinimumVersion=3.0
+author=Ja
+email=some@em.ail
+repository=URL
+icon=icon.png
