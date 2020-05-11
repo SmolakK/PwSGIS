@@ -34,15 +34,11 @@ _________________________
 Erasmus+ course 
 GIS Programming
 
-<b> Important info: </b> Exercises 8 will be uploaded later this day than usual. Sorry for the delay.
-
 Important info: Despite the odds, the course continues. All the necessary information will be put into the exercises as well as here. Any questions? Mail me at: kamil.smolak@upwr.edu.pl
 
 Current info:
 
-Complete list 2 using Ex 3 and 4 until 13.04.2020
-
-Deadline for list 3 is postponed to 04.05.2020
+Deadline for list 4 is 25.05.2020
 
 Exercises links:
 
@@ -62,6 +58,8 @@ Exercises links:
 
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Exercises/Ex_7.zip"> Ex7 </a>
 
+<a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Exercises/Ex_8.zip"> Ex8 </a>
+
 Lists links:
 
 <a href="https://github.com/SmolakK/PwSGIS/blob/master/Programming%20in%20GIS%20(Erasmus%20course)/Lists/List_1%20-%20a%20Python%20warm-up.zip">List1</a>
@@ -69,3 +67,5 @@ Lists links:
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Lists/List%202%20-%20Python.rar">List2</a>
 
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Lists/List_3.zip">List3</a>
+
+<a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Lists/List_4.zip">List4</a>
