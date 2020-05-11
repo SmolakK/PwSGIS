@@ -34,6 +34,8 @@ _________________________
 Erasmus+ course 
 GIS Programming
 
+<b> Important info: </b> Exercises 8 will be uploaded later this day than usual. Sorry for the delay.
+
 Important info: Despite the odds, the course continues. All the necessary information will be put into the exercises as well as here. Any questions? Mail me at: kamil.smolak@upwr.edu.pl
 
 Current info:
