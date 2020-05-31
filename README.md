@@ -3,7 +3,7 @@ GIS Programming
 
 Important info: Despite the odds, the course continues. All the necessary information will be put into the exercises as well as here. Any questions? Mail me at: kamil.smolak@upwr.edu.pl
 
-Current info: I have added Excersises 11 and list 5. Today's classes are the last one! Thank your for attending the course. The rest of the classes from today are to be devoted for finishing up the tasks and sending them over to me. Good Luck!
+<b> Current info: I have added Excersises 11 and list 5. Today's classes are the last one! Thank your for attending the course. The rest of the classes from today are to be devoted for finishing up the tasks and sending them over to me. Good Luck! </b>
 
 Exercises links:
 
