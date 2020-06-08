@@ -1,44 +1,9 @@
-# PwSGIS
-Programowanie w systemach GIS
 
-Informacje: Kurs odbywa się przede wszystkim na Google Classroms. Nadal wszystkie materiały będą też umieszczane w każdy poniedziałek na tej stronie.
-
-Aktualizacja:
-Dostepne są ćwiczenia 5 oraz lista 3. Lista 3 wysłana musi być od 13.04.2020.
-
-W razie pytań proszę o kontakt: kamil.smolak@upwr.edu.pl
-
-Linki do ćwiczeń: 
-
-<a href="https://github.com/SmolakK/PwSGIS/raw/master/%C4%86wiczenia/Cwiczenia_1_Wprowadzenie.zip">Ćwiczenia 1</a>
-
-<a href="https://github.com/SmolakK/PwSGIS/raw/master/%C4%86wiczenia/Cwiczenia_2_Typowe_dla_Pythona_typy_indeksowanie_kontrola_przep%C5%82ywu.zip">Ćwiczenia 2</a>
-
-<a href="https://github.com/SmolakK/PwSGIS/raw/master/%C4%86wiczenia/Cwiczenia_3_Wlasne_funkcje_dokumentacje.zip">Ćwiczenia3</a>
-
-<a href="https://github.com/SmolakK/PwSGIS/raw/master/%C4%86wiczenia/Cwiczenia_4_Formatowanie_tekstu_wejscie_wyjscie_plikow.zip">Ćwiczenia 4</a>
-
-<a href="https://github.com/SmolakK/PwSGIS/raw/master/%C4%86wiczenia/%C4%86wiczenia5_Klasy_i_paradygmaty.zip">Ćwiczenia 5</a>
-
-Linki do list:
-
-<a href="https://github.com/SmolakK/PwSGIS/raw/master/Listy/Lista_1.zip">Lista1</a>
-
-<a href="https://github.com/SmolakK/PwSGIS/raw/master/Listy/Lista_2.zip
-">Lista2</a>
-
-<a href="https://github.com/SmolakK/PwSGIS/raw/master/Listy/Lista_3.zip
-">Lista3</a>
-
-_________________________
-Erasmus+ course 
 GIS Programming
 
 Important info: Despite the odds, the course continues. All the necessary information will be put into the exercises as well as here. Any questions? Mail me at: kamil.smolak@upwr.edu.pl
 
-Current info:
-
-Deadline for list 4 is 25.05.2020
+<b> Current info: I have added Excersises 11 and list 5. Today's classes are the last one! Thank your for attending the course. The rest of the classes from today are to be devoted for finishing up the tasks and sending them over to me. Good Luck! </b>
 
 Exercises links:
 
@@ -64,6 +29,8 @@ Exercises links:
 
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Exercises/Ex_10.zip"> Ex10 </a>
 
+<a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Exercises/Ex_11.zip"> Ex11 </a>
+
 Lists links:
 
 <a href="https://github.com/SmolakK/PwSGIS/blob/master/Programming%20in%20GIS%20(Erasmus%20course)/Lists/List_1%20-%20a%20Python%20warm-up.zip">List1</a>
@@ -73,3 +40,5 @@ Lists links:
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Lists/List_3.zip">List3</a>
 
 <a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Lists/List_4.zip">List4</a>
+
+<a href="https://github.com/SmolakK/PwSGIS/raw/master/Programming%20in%20GIS%20(Erasmus%20course)/Lists/List%205.zip">List5</a>
